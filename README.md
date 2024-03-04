@@ -85,7 +85,7 @@ aaaaa. <be>
 
 **Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
 
-## [Paied T-test for Model Comparison](https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb)<br>
+## [Paired T-test for Model Comparison](https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb)<br>
 <a href="https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb">
     <img align="right" width="250" height="200" src="image_path">
 </a>
