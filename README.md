@@ -24,8 +24,10 @@
 
 <h2 align="left"><b> Projects </b></h2>
 
-## [Title](link)<br>
-<img align="right" width="250" height="200" src="Portfolio_images/file name"> 
+## [Hypothesis Testing & Power Analysis for Product Development](link)<br>
+<a href="https://deepnote.com/app/yura-ueno/Hypothesis-Test-and-Power-Analysis-5ffe7a7c-f051-45c7-8e27-bda688ba164d">
+    <img align="right" width="250" height="200" src="https://github.com/yura-ueno/hypothesis_testing/blob/d6df7d48e14ca3854fdce7fef7365b1a5c6ac50d/cover.png">
+</a>
 
 **Description:** 
 aaaa. <be>
