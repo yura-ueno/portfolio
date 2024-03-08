@@ -5,22 +5,27 @@
     <p><b> I am a ... </b></p>
     <ul>
         <li>MSc. student in Data Science at the University of Gothenburg <br>
-        with a strong passion for leveraging data and analytics for problem-solving and decision-making </li>
-        <li>Financial Analyst Intern at Apple Japan</li>
-        <li>former Data Science Intern at Spotify</li>
-        <li>former Data Science Intern at Johnson&Johnson</li>
-        <li>former Data Analyst at Nagase Brothers Inc.</li>
+        with a strong passion for leveraging data and analytics for problem-solving and decision-making 🔥 </li>
+        <li>Financial Analyst Intern at Apple Japan 🍎 </li>
+        <li>Ex. Data Science Intern at Spotify 🎶 💚 </li>
+        <li>Ex. Data Science Intern at Johnson & Johnson 🏥 </li>
+        <li>Ex. Data Analyst at Nagase Brothers Inc. 📚 </li>
     </ul>
+
+**Technical Skills:**
+- Programming: Python (4.5+ years), SQL (1.5+ years)
+- Machine Learning
+- Statistical Analysis & Modeling
+- Hypothesis Testing incl. AB test
+- Data Visualization
+- Data Wrangling
+
+**Experienced Tools:**
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy, PyTorch, Langchain
+- BI tools: Tableau, Looker Studio, Dataiku
+- Database: BigQuery, Dremio
+- Others: Git
 <br>
-
-<h2 align="left"><b>Skills</b> </h2>
-
-### Languages:
-- Python (4.5+ years)
-- SQL (1.5+ years)
-
-### IDEs and Libraries:
-- 
 
 <h2 align="left"><b> Projects </b></h2>
 
@@ -29,72 +34,70 @@
     <img align="right" width="250" height="180" src="coverphotos/hypothesis_test_cover.png">
 </a>
 
-**Description** <br>
-Hypothesis tests for evaluating the effectiveness of new features in products and power analysis for estimating the sample size required for running experiments.
+**Description:** <br>
+In this project, I run hypothesis tests for evaluating the effectiveness of new features in products and power analysis for estimating the sample size required for running experiments. The notebook contains the analysis along with the functions for running the hypothesis tests. 
 
-**Tests used** <br> 
-two-sample t-test, paired t-test, power analysis<be>
+**Tests used:** <br> 
+two-sample t-test, paired t-test, power analysis<br>
+
 
 ## [Kmeans Implementation from Scartch in Python](https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584)<br>
 <a href="https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584">
     <img align="right" width="250" height="180" src="coverphotos/kmeans_cover.png">
 </a>
 
-**Description:** 
-aaaaa. <be>
+**Description:** <br>
+I have implemented the Kmeans algorithm from scratch in Python and tested the algorithm for image compressions. The implemented Kmeans follows the kmeans++ algorithm for optimized initialization of centroids and leverages vectorized computations with NumPy matrices for more efficient calculations. 
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
+**Keywords:**  
+kmeans++, vectorized computations, clustering, image compression  <br>
 
 ## [MNIST Digit Classification with Neural Network](https://deepnote.com/app/yura-ueno/Neural-Network-on-MNIST-Digits-c48c503b-d018-4a76-8fc4-6e1ada4eb8ea)<br>
 <a href="https://deepnote.com/app/yura-ueno/Neural-Network-on-MNIST-Digits-c48c503b-d018-4a76-8fc4-6e1ada4eb8ea">
     <img align="right" width="250" height="180" src="coverphotos/neural_net.png">
 </a>
 
-**Description:** 
-aaaaa. <be>
+**Description:** <br>
+I implemented and compared the performance of various neural network models including a convolutional neural network model for digit classification. I also implemented an auto-encoder for denoising the images of digits and experimented using the decoder part of the auto-encoder for generating synthetic "handwritten" digits.<br>
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
+**Keywords:**  
+neural network, convolutional network, auto-encoder, image classification, generating synthetic images.
+
 
 ## [Breast Cancer Classification with Logistic Regression](https://deepnote.com/app/yura-ueno/Breast-Cancer-Classification-a1f36dc3-3558-4c42-af70-94dfa8d2fd79)<br>
 <a href="https://deepnote.com/app/yura-ueno/Breast-Cancer-Classification-a1f36dc3-3558-4c42-af70-94dfa8d2fd79">
     <img align="right" width="250" height="180" src="coverphotos/breast_cancer_classification.png">
 </a>
 
-**Description:** 
-aaaaa. <be>
+**Description:** <br>
+I built a logistic regression classifier that predicts whether a patient has cancer or not based on an image of a fine needle aspirate of a breast mass. The notebook contains feature pre-processing and feature selection processes before the model training as well.
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
+**Keywords:**  <br>
+logistic regression, classification, feature preprocessing, feature selection, evaluation metric selection, confusion matrix
 
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
 
 ## [Protein Conformation Cluster Analysis with Kmeans & DBSCAN](https://deepnote.com/app/yura-ueno/Kmeans-vs-DBSCAN-16d362da-de59-47a3-b694-1b2bc3d740e9)<br>
 <a href="https://deepnote.com/app/yura-ueno/Kmeans-vs-DBSCAN-16d362da-de59-47a3-b694-1b2bc3d740e9">
     <img align="right" width="250" height="180" src="coverphotos/kmeans_dbscan.png">
 </a>
 
-**Description:** 
-aaaaa. <be>
+**Description:** <br>
+I compare Kmeans clustering and DBSCAN (Density-based spatial clustering of applications with noise) through a protein conformation cluster analysis. I also showcase an example of data adjustment required for more reasonable clusterization.<br>
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
+**Keywords:**  <br>
+Kmeans, DBSCAN, clustering, data adjustment<be>
 
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
 
 ## [Paired T-test for Model Comparison](https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb)<br>
 <a href="https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb">
     <img align="right" width="250" height="180" src="coverphotos/ttest_for_model.png">
 </a>
 
-**Description:** 
-aaaaa. <be>
+**Description:** <br>
+This project shows how you can compare the performances of different models by running a paired t-test to see which model performs statistically significantly better. I exemplify this by comparing the performance of a logistic regression classifier and a Gaussian Naive Bayes classifier on an example data set using a Paired T-test.
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
-
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
+**Keywords:**  <br>
+paired t-test, model comparison, Gaussian Naive Bayes classifier, logistic regression
 
 
 ## [Decision Tree vs Random Forest](https://deepnote.com/app/yura-ueno/Decision-Tree-and-Random-Forest-d6026e7d-09ab-44b3-8960-16878db21a3f)<br>
@@ -102,62 +105,12 @@ aaaaa. <be>
     <img align="right" width="250" height="180" src="coverphotos/tree_cover_photo.png">
 </a>
 
-**Description:** 
-aaaaa. <be>
+**Description:** <br>
+This project
+- compares the decision tree classification and the random forest classification in terms of overfitting and underfitting,
+- looks into changes in the results as the ensemble size in the random forest classifier grows, and
+- evaluates the feature importance in decision tree classifiers and random forest classifiers.
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
+**Keywords:**  <br>
+decision tree, random forest, ensemble model, feature importance
 
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
-
-## [Title](link)<br>
-<a href="link">
-    <img align="right" width="250" height="180" src="image_path">
-</a>
-
-**Description:** 
-aaaaa. <be>
-
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
-
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
-
-## [Title](link)<br>
-<a href="link">
-    <img align="right" width="250" height="200" src="image_path">
-</a>
-
-**Description:** 
-aaaaa. <be>
-
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
-
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
-
-## [Title](link)<br>
-<a href="link">
-    <img align="right" width="250" height="200" src="image_path">
-</a>
-
-**Description:** 
-aaaaa. <be>
-
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
-
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
-
-## [Title](link)<br>
-<a href="link">
-    <img align="right" width="250" height="200" src="image_path">
-</a>
-
-**Description:** 
-aaaaa. <be>
-
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
-
-
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <br>
