@@ -32,12 +32,8 @@
 **Description** <br>
 Hypothesis tests for evaluating the effectiveness of new features in products and power analysis for estimating the sample size required for running experiments.
 
-**Tests used:** <br> 
-- two-sample t-test
-- paired t-test
-- power analysis<be>
-
-**Keywords:**  <be>
+**Tests used** <br> 
+two-sample t-test, paired t-test, power analysis<be>
 
 ## [Kmeans Implementation from Scartch in Python](https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584)<br>
 <a href="https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584">
