@@ -26,7 +26,7 @@
 
 ## [Hypothesis Testing & Power Analysis for Product Development](https://deepnote.com/app/yura-ueno/Hypothesis-Test-and-Power-Analysis-5ffe7a7c-f051-45c7-8e27-bda688ba164d)<br>
 <a href="https://deepnote.com/app/yura-ueno/Hypothesis-Test-and-Power-Analysis-5ffe7a7c-f051-45c7-8e27-bda688ba164d">
-    <img align="right" width="250" height="200" src="https://github.com/yura-ueno/hypothesis_testing/blob/d6df7d48e14ca3854fdce7fef7365b1a5c6ac50d/cover.png">
+    <img align="right" width="250" height="200" src="coverphotos/hypothesis_test_cover.png">
 </a>
 
 **Description:** 
@@ -38,7 +38,7 @@ aaaa. <be>
 
 ## [Kmeans Implementation from Scartch in Python](https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584)<br>
 <a href="https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584">
-    <img align="right" width="250" height="200" src="image_path">
+    <img align="right" width="250" height="200" src="coverphotos/kmeans_cover.png">
 </a>
 
 **Description:** 
@@ -50,7 +50,7 @@ aaaaa. <be>
 
 ## [MNIST Digit Classification with Neural Network](https://deepnote.com/app/yura-ueno/Neural-Network-on-MNIST-Digits-c48c503b-d018-4a76-8fc4-6e1ada4eb8ea)<br>
 <a href="https://deepnote.com/app/yura-ueno/Neural-Network-on-MNIST-Digits-c48c503b-d018-4a76-8fc4-6e1ada4eb8ea">
-    <img align="right" width="250" height="200" src="https://github.com/yura-ueno/hypothesis_testing/blob/d6df7d48e14ca3854fdce7fef7365b1a5c6ac50d/cover.png">
+    <img align="right" width="250" height="200" src="coverphotos/neural_net.png">
 </a>
 
 **Description:** 
@@ -60,7 +60,7 @@ aaaaa. <be>
 
 ## [Breast Cancer Classification with Logistic Regression](https://deepnote.com/app/yura-ueno/Breast-Cancer-Classification-a1f36dc3-3558-4c42-af70-94dfa8d2fd79)<br>
 <a href="https://deepnote.com/app/yura-ueno/Breast-Cancer-Classification-a1f36dc3-3558-4c42-af70-94dfa8d2fd79">
-    <img align="right" width="250" height="200" src="image_path">
+    <img align="right" width="250" height="200" src="coverphotos/breast_cancer_classification.png">
 </a>
 
 **Description:** 
@@ -73,7 +73,7 @@ aaaaa. <be>
 
 ## [Protein Conformation Cluster Analysis with Kmeans & DBSCAN](https://deepnote.com/app/yura-ueno/Kmeans-vs-DBSCAN-16d362da-de59-47a3-b694-1b2bc3d740e9)<br>
 <a href="https://deepnote.com/app/yura-ueno/Kmeans-vs-DBSCAN-16d362da-de59-47a3-b694-1b2bc3d740e9">
-    <img align="right" width="250" height="200" src="image_path">
+    <img align="right" width="250" height="200" src="coverphotos/kmeans_dbscan.png">
 </a>
 
 **Description:** 
@@ -86,7 +86,7 @@ aaaaa. <be>
 
 ## [Paired T-test for Model Comparison](https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb)<br>
 <a href="https://deepnote.com/app/yura-ueno/Paired-T-test-for-Model-Comparison-e8b6a0f0-7830-4892-9e0e-4555868162bb">
-    <img align="right" width="250" height="200" src="image_path">
+    <img align="right" width="250" height="200" src="coverphotos/ttest_for_model.png">
 </a>
 
 **Description:** 
@@ -100,7 +100,7 @@ aaaaa. <be>
 
 ## [Decision Tree vs Random Forest](https://deepnote.com/app/yura-ueno/Decision-Tree-and-Random-Forest-d6026e7d-09ab-44b3-8960-16878db21a3f)<br>
 <a href="https://deepnote.com/app/yura-ueno/Decision-Tree-and-Random-Forest-d6026e7d-09ab-44b3-8960-16878db21a3f">
-    <img align="right" width="250" height="200" src="image_path">
+    <img align="right" width="250" height="200" src="coverphotos/tree_cover_photo.png">
 </a>
 
 **Description:** 
