@@ -30,11 +30,11 @@
 </a>
 
 **Description:** 
-aaaa. <be>
+Hypothesis tests for evaluating the effectiveness of new features in products and power analysis for estimating the sample size required for running experiments.
 
-**Tools used:**  Python, R markdown, SciPy, NumPy, seaborn, Kaggle<be>
+**Tests used:**  two-sample t-test, paired t-test, power analysis<be>
 
-**Keywords:** clustering, pattern recognition,  time series analysis, linear regression, predictive modeling, two-sample hypothesis test, data visualization <be>
+**Keywords:**  <be>
 
 ## [Kmeans Implementation from Scartch in Python](https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584)<br>
 <a href="https://deepnote.com/app/yura-ueno/Kmeans-Implementation-8cf0dda0-2458-45c5-9be1-4c9af4267584">
