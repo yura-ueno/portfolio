@@ -29,10 +29,13 @@
     <img align="right" width="250" height="180" src="coverphotos/hypothesis_test_cover.png">
 </a>
 
-**Description:** 
+**Description** <br>
 Hypothesis tests for evaluating the effectiveness of new features in products and power analysis for estimating the sample size required for running experiments.
 
-**Tests used:**  two-sample t-test, paired t-test, power analysis<be>
+**Tests used:** <br> 
+- two-sample t-test
+- paired t-test
+- power analysis<be>
 
 **Keywords:**  <be>
 
