@@ -5,7 +5,7 @@
     <p><b> I am a ... </b></p>
     <ul>
         <li>Data Scientist at Johnson & Johnson, Japan 🏥 <br>
-        with MSc. degree in Data Science from the University of Gothenburg <br>
+        with MSc. degree in Data Science from the University of Gothenburg 👩‍🎓 <br>
         with a strong passion for leveraging data and analytics for problem-solving and decision-making 🔥 </li>
         <li>Ex. Financial Analyst Intern at Apple Japan 🍎 </li>
         <li>Ex. Data Science Intern at Spotify in Sweden 🎶 💚 </li>
