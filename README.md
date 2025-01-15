@@ -4,16 +4,17 @@
 <br>
     <p><b> I am a ... </b></p>
     <ul>
-        <li>MSc. student in Data Science at the University of Gothenburg <br>
+        <li>Data Scientist at Johnson & Johnson, Japan 🏥 </li>
+        <li>with MSc. degree in Data Science from the University of Gothenburg <br>
         with a strong passion for leveraging data and analytics for problem-solving and decision-making 🔥 </li>
-        <li>Financial Analyst Intern at Apple Japan 🍎 </li>
-        <li>Ex. Data Science Intern at Spotify 🎶 💚 </li>
-        <li>Ex. Data Science Intern at Johnson & Johnson 🏥 </li>
+        <li>Ex. Financial Analyst Intern at Apple Japan 🍎 </li>
+        <li>Ex. Data Science Intern at Spotify in Sweden 🎶 💚 </li>
+        <li>Ex. Data Science Intern at Johnson & Johnson, Japan 🏥 </li>
         <li>Ex. Data Analyst at Nagase Brothers Inc. 📚 </li>
     </ul>
 
 **Technical Skills:**
-- Programming: Python (4.5+ years), SQL (1.5+ years)
+- Programming: Python (5+ years), SQL (2+ years)
 - Machine Learning
 - Statistical Analysis & Modeling
 - Hypothesis Testing incl. AB test
@@ -21,9 +22,9 @@
 - Data Wrangling
 
 **Experienced Tools:**
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy, PyTorch, Langchain
+- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy, PyTorch, Langchain etc.
 - BI tools: Tableau, Looker Studio, Dataiku
-- Database: BigQuery, Dremio
+- Database: Postgres, BigQuery, Dremio
 - Others: Git
 <br>
 
