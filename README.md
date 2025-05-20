@@ -16,13 +16,14 @@
 **Technical Skills:**
 - Programming: Python (5+ years), SQL (2+ years)
 - Machine Learning
-- Statistical Analysis & Modeling
+- Statistical Analysis & Modeling (both Frequentist and Bayesian)
 - Hypothesis Testing incl. AB test
+- NLP (Natural Language Processing)
 - Data Visualization
 - Data Wrangling
 
 **Experienced Tools:**
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Scipy, PyTorch, Langchain etc.
+- Libraries: Pandas, NumPy, Matplotlib, Plotly, Seaborn, Scikit-learn, Scipy, Pymc, PyTorch, Langchain etc.
 - BI tools: Tableau, Looker Studio, Dataiku
 - Database: Postgres, BigQuery, Dremio
 - Others: Git
